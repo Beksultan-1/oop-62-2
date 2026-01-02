@@ -7,3 +7,7 @@ git init
 git remote add origin https://github.com/Beksultan-1/oop-62-2.git
 
 git status
+git add /
+git commit -m "lesson1"
+git branch
+git push origin master
