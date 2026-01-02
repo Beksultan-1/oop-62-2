@@ -1,0 +1,9 @@
+Команды для регистрации ваших данных
+git config --global user.name "Your name"
+git config --global user.email "your-email@example.com"
+
+команды только для одного проекта
+git init
+git remote add origin https://github.com/Beksultan-1/oop-62-2.git
+
+git status
