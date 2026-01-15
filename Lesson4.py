@@ -6,3 +6,4 @@ class Test:
         return str(self.value)
 
     my_str = "My str"
+    my_type = Test("My type")
